@@ -12,7 +12,6 @@ the exercise and simulated datasets.
 ## Deliverable
 
 Please provide your submission as an RStudio project or gzip R package via any of the following:
- - a pull request to this repository
  - a link to your own git repository (hosted anywhere suitable)
  - an email to carroll.jonathan@gene.com
 
