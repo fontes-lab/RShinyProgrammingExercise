@@ -13,7 +13,7 @@ the exercise and simulated datasets.
 
 Please provide your submission as an RStudio project or gzip R package via any of the following:
  - a link to your own git repository (hosted anywhere suitable)
- - an email to carroll.jonathan@gene.com
+ - an email to the person who requested the submission
 
 <hr />
 
